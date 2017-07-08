@@ -1,0 +1,50 @@
+Dominio:	
+
+Fecha Compra:	
+
+Nombre:		
+
+Direccion:	
+
+Lat:		
+Lan:		
+
+Tel:		
+
+Fax:		
+
+Hosting:	
+username:	
+password:	
+
+FTP
+server:		ftp.
+username:	
+password:	
+
+username:	
+password:	
+
+MYSQL
+database:	
+username:	
+password:	
+
+WP:
+username:	
+password:
+
+Mail:
+username:	info@
+password:	
+
+username:	
+password:	
+	
+Addon Domain:	
+username:	
+password:	
+
+username:	
+password:	
+
